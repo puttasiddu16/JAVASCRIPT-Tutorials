@@ -1,1 +1,1 @@
-# This is my javscript tutorial, venilla javascript!
+# This is my javscript tutorial!
